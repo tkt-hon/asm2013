@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bot
+	name="RampageMyName"
+	description="My Name Rampage description"
+	heroname="Hero_Rampage"
+	rootlua="rampage_asm_my_name.lua"
+	defaultplayername="MyName"
+	precachepath="/heroes/rampage/"
+/>
